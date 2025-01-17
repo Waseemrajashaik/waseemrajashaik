@@ -3,8 +3,6 @@
 I’m a **Senior Frontend Developer** with over **8 years of experience** in building scalable, high-performance web applications. I specialize in **React.js**, **JavaScript frameworks**, and delivering seamless **user-centric solutions**. My journey includes leading development teams, driving architectural design, and ensuring excellence in every line of code.
 
 ---
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=waseemrajashaik)
----
 
 ### 🛠️ **Technologies I Work With**
 - **Languages**: JavaScript (ES6+), TypeScript, Python, Ruby, Go, PHP, HTML5, CSS3
